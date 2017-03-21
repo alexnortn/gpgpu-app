@@ -1,0 +1,6 @@
+# Gitignore for gpgpu-app
+
+/node_modules
+/connsData
+/connsData2
+/meshes
